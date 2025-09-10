@@ -1,0 +1,11 @@
+bank_name,market_cap,market_share,rank,market_share_cumulative,tier,quartile,segment
+JPMorgan Chase,432.92,22.787421966291543,1,22.787421966291543,Tier 1 (>20%),Q4 (Large),Large
+Bank of America,231.52,12.18641766062048,2,34.973839626912024,Tier 2 (10–20%),Q4 (Large),Medium
+Industrial and Commercial Bank of China,194.56,10.240970197176575,3,45.2148098240886,Tier 2 (10–20%),Q3 (Upper-Mid),Medium
+Agricultural Bank of China,160.68,8.45764335568633,4,53.67245317977493,Tier 3 (≤10%),Q3 (Upper-Mid),Medium
+HDFC Bank,157.91,8.311840069059173,5,61.9842932488341,Tier 3 (≤10%),Q3 (Upper-Mid),Medium
+Wells Fargo,155.87,8.20446147529766,6,70.18875472413175,Tier 3 (≤10%),Q2 (Lower-Mid),Medium
+HSBC Holdings PLC,148.9,7.8375846132791525,7,78.0263393374109,Tier 3 (≤10%),Q2 (Lower-Mid),Small
+Morgan Stanley,140.83,7.41280752913434,8,85.43914686654524,Tier 3 (≤10%),Q1 (Small),Small
+China Construction Bank,139.82,7.359644597909274,9,92.79879146445452,Tier 3 (≤10%),Q1 (Small),Small
+Bank of China,136.81,7.201208535545472,10,100.0,Tier 3 (≤10%),Q1 (Small),Small
